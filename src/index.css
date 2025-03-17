@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+
+/* 
+@theme {
+  --color-primary-color: @apply bg-orange-500;
+} */
+
+ /* styles of header  block1 👇 */
+*{
+  margin: 0px ; box-sizing: border-box;
+}
+/* .container{
+  width: 99%;
+  margin: auto;
+} */
+
+
+.link:hover{
+ color: #ff5252;
+}
+ body{
+  background:#f5f0f0;
+ }
+
+/* header block1 closed ☝️ */
+/* ----------------------------------------------------------------------------- */
+
+ /* styles of search  block2 👇 */
+
+ /* .button{
+ background-color : #ff5252;
+ }
+ .button:hover{
+  background-color: black;
+ } */
+
+ /* header block2 closed ☝️ */

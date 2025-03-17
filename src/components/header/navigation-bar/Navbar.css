@@ -1,0 +1,78 @@
+.text-style {
+    font-size: medium;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.navfirst-button {
+    color: black !important;
+    font-weight: 800 !important;
+
+
+}
+
+.nav-button {
+    color: black !important;
+    font-weight: 700 !important;
+    text-transform: capitalize !important;
+}
+
+.nav-button:hover {
+    color: #ff5252 !important;
+    font-weight: 700 !important;
+    text-transform: capitalize !important;
+}
+
+.arrow {
+    margin-left: 3rem;
+}
+
+.col3 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav li:hover .submenu {
+    opacity: 1 !important; 
+    visibility: inherit;
+    top: 100%;
+    background-color: rgba(245, 245, 245, 0.548);
+}
+
+.nav li .submenu {
+
+    visibility: hidden;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 24px 1px; /* Adjust the vertical spacing value as needed */
+    background-color: rgba(245, 245, 245, 0.811);
+}
+.link:hover Button {
+    color:  #ff5252 !important;
+    text-align: left !important;
+    padding-left: 0 !important;
+    margin: 0 !important;
+
+}
+.link Button{
+    text-transform: capitalize !important;
+    color:black !important;   
+    text-align: left !important;
+    padding-left: 0 !important;
+    margin: 0 !important;
+   
+  
+}
+
+.ul-link Button{
+    text-transform: capitalize !important;
+    color:black !important;   
+   
+}
+
+.ul-link:hover  Button{
+    color:  #ff5252 !important;
+   
+}

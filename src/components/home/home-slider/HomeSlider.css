@@ -1,0 +1,42 @@
+.swiper-outer-container{
+    width:100%;
+    height: 100%;
+   
+
+}
+.left-inner-container{
+   width: 70%;
+   /* margin-top: 12px; */
+}
+
+.right-inner-container{
+    width: 30%;
+}
+
+
+/* Next button styles */
+.swiper-button-next {
+    color: blue;/* Change button color */
+    font-size: 100px; /* Increase size */
+    background-color: rgba(0, 0, 255, 0.1); /* Add a background */
+    border-radius: 50%; /* Make it circular */
+    padding: 10px; /* Add spacing */
+  }
+  
+  /* Previous button styles */
+  .swiper-button-prev {
+    color: red;
+    font-size: 100px;
+    background-color: rgba(255, 0, 0, 0.1);
+    border-radius: 50%;
+    padding: 10px;
+  }
+  
+  /* Hover effect for both buttons */
+  .swiper-button-next:hover, .swiper-button-prev:hover {
+    color: white; /* Change color on hover */
+    background-color: black; /* Change background on hover */
+    transform: scale(1.2); /* Add a zoom effect */
+    transition: transform 0.3s, background-color 0.3s, color 0.3s; /* Smooth animation */
+  }
+  

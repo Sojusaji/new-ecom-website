@@ -1,0 +1,24 @@
+.drawershowing-list-button{
+    text-transform: capitalize !important;
+    color:black !important;
+
+}
+.margin{
+    margin-right: 2rem;
+}
+
+.link:hover Button {
+    color:  #ff5252 !important;
+
+}
+.submenuIndex-padding{
+    padding-left: 1rem;
+} 
+
+.innerSubmenuIndex-padding{
+    padding-left: 2rem;
+}
+
+
+
+
